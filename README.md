@@ -1,5 +1,3 @@
-# Sentiment-Analysis
-
 # Sentiment Analysis Project
 
 A simple NLP-based Sentiment Analysis project built using Python. This project analyzes text data and predicts whether the sentiment is Positive or Negative.
